@@ -1,3 +1,8 @@
 # hwoa-rang-metal
 
-A description of this package.
+Minimum Apple Metal rendering library via Swift for learning and experiments.
+
+- Camera
+- Node graph
+- Drawables
+- Geometries
